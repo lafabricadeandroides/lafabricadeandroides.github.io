@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content = "width = device-width, initial-scale = 1, minimum-scale = 1, maximum-scale = 1, user-scalable = no" />
+	<title>Kitty Rescue</title>
+	<link rel="stylesheet" href="./css/kittyrescue.css">
+	<script type="text/javascript" src="./js/jquery-3.6.0.min.js"></script>
+	<script type="text/javascript" src="./js/kitty.js"></script>
+	<script type="text/javascript" src="./js/draw.js"></script>
+	<script type="text/javascript" src="./js/kittyrescue.js"></script>
+	<script>
+		$(document).ready(function(){
+			initGame();
+			//Con el unbind evitamos que se produzcan dos eventos mousedown
+			$("#gamezone").unbind('mousedown').mousedown(
+				function(e) {
+					//Si pulsa sobre la pantalla, hay que gestionar la pulsación
+					manageEvent(e.pageX, e.pageY);
+				}
+			);
+		});
+		$(window).resize(function() {
+			getScreenValues();
+			drawAll();
+		});
+	</script>
+	
+</head>
+<body >
+	<canvas id="gamezone">
+	</canvas>
+</body>
+</html>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71934824-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

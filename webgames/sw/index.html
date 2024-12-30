@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<title>Batalla Galáctica</title>
+	<link rel="stylesheet" href="./css/batallaespacial.css">
+	<script type="text/javascript" src="./js/config.js"></script>
+	<script type="text/javascript" src="./js/GuerraGalactica.js"></script>
+	<script type="text/javascript" src="./js/GestorGamepad.js"></script>
+	<script type="text/javascript" src="./js/GestorTeclado.js"></script>
+	<script type="text/javascript" src="./js/GestorAudio.js"></script>
+	<script type="text/javascript" src="./js/GestorColisiones.js"></script>
+	<script type="text/javascript" src="./js/GestorTextos.js"></script>
+	<script type="text/javascript" src="./js/GestorTactil.js"></script>
+	<script type="text/javascript" src="./js/GestorIA.js"></script>
+	<script type="text/javascript" src="./js/Planeta.js"></script>
+	<script type="text/javascript" src="./js/Enemigo.js"></script>
+	<script type="text/javascript" src="./js/Estrella.js"></script>
+	<script type="text/javascript" src="./js/Nave.js"></script>
+	<script type="text/javascript" src="./js/Disparo.js"></script>
+	<script type="text/javascript" src="./js/DisparoEnemigo.js"></script>
+	<script type="text/javascript">
+
+	
+	function arrancarJuego(){
+		inicializarJuego();
+		arrancarElementos();
+		gameLoop();
+	}
+
+	</script>
+</head>
+<body id="elbody" onload="arrancarJuego()" onkeydown="pulsaTecla(event)" onkeyup="sueltaTecla(event)" onresize="recalcula()" onclick="pulsaTactil(event)">
+	<div id="divGeneral">
+		<div id="divContenedor">
+			<canvas id="idLienzo" width="800px"></canvas>
+		</div>
+	</div>
+</body>
+</html>

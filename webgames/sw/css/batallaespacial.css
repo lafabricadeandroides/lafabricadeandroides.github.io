@@ -1,0 +1,19 @@
+* {
+	margin: 0px;
+	overflow:hidden;
+}
+body {
+	
+}
+#idLienzo{
+	background-color: black;
+}
+#divGeneral{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-image: url("../assets/texturas/pizarra.jpg");
+}
+#divContenedor{
+	position:absolute;
+}

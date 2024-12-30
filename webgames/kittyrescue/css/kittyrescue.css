@@ -1,0 +1,9 @@
+@font-face {
+	font-family: Splurge;
+	src: local("Splurge"),url("../ttf/splurge.ttf");
+}
+
+*{
+	margin:0px;
+	overflow:hidden;
+}

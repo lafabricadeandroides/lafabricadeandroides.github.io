@@ -1,0 +1,105 @@
+@import url(http://fonts.googleapis.com/css?family=Marmelad);
+
+body {
+	background-color: black;
+	font-family: 'Marmelad';
+}
+#bloqueprincipal {
+	font-size: 1em;
+	color: #D0D0D0;
+	margin-left:10%;
+	margin-right:10%;
+	margin-top:5em;
+}
+#nombre {
+	font-size: 3em;
+	letter-spacing: 0.5em;
+	color:#6ABE44;
+}
+#subtitulo {
+	font-size: 0.9em;
+	color:#6ABE44;
+}
+.categoria {
+	font-size: 1.4em;
+	font-weight: 400;
+	background-color: #6ABE44;
+	color: #303030;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.subcategoria {
+	font-size: 1.2em;
+	font-weight: 200;
+	background-color: #6ABE44;
+	color: #303030;
+	padding-left: 20px;
+}
+.lista_items {
+	color: #888888;
+	margin-bottom: 15px;
+}
+#creditos {
+	font-size: 0.8em;
+	text-align: right;
+}
+
+#imagen {
+	width: 100%;
+	text-align: center;
+}
+
+#imagen img {
+	border-radius: 5px 5px 5px 5px; /* Borde redondeado */
+	padding:10px; /* Espacio entre la imagen y el borde */
+	background:#6ABE44; /* Color de fondo que se ve entre el espacio */
+	-moz-transition: all 1s;
+	-webkit-transition: all 1s;
+	-o-transition: all 1s;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+#imagen img:hover {
+	border-radius: 0% 50%; /* Borde redondeado */
+	box-shadow: 0px 0px 5px #FFF; /* Sombra */
+}
+
+.imgbig img {
+	width: 70%;
+}
+
+.imgsmall img {
+	width: 50%;
+}
+
+a:link {
+	text-decoration:none;
+	color:white;
+} 
+
+a:visited {
+	text-decoration:none;
+	color:white;
+} 
+
+#video {
+	text-align: center;
+}
+
+iframe {
+	width: 600px;
+	height: 400px;
+	border-radius: 5px 5px 5px 5px; /* Borde redondeado */
+	padding:10px; /* Espacio entre la imagen y el borde */
+	background:#6ABE44; /* Color de fondo que se ve entre el espacio */
+	-moz-transition: all 1s;
+	-webkit-transition: all 1s;
+	-o-transition: all 1s;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 0px;
+	margin-right: 0px;
+}

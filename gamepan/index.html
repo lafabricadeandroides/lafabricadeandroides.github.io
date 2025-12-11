@@ -1,0 +1,133 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="./css/gamepan.css" />
+        <title>Gamepan</title>
+        <link rel="icon" href="images/favicon.png" type="./img/png" />
+        
+    </head>
+    <body>
+        <div id="bloqueprincipal">
+<div id="nombre">GAMEPAN</div>
+<div id="subtitulo">La Consola "Low Cost" basada en Arduino, by Fernando Paniagua (sin copyright) 2015</div> 
+<div id="imagen" class="imgbig">
+    <img src="./img/gamepan.jpg">
+</div>
+<div class="subcategoria">Origen y presupuesto</div>
+<br>
+<div>Lo primero que hice cuando descubrí la placa Arduino fue hacerme con una, comprar unos cuantos sensores y ponerme a probarlos. La experiencia era divertida, pero no me daba mucho juego. Hay muchos proyectos muy buenos y sofisticados con Arduino: riegos automáticos, detectores de intrusos o dispensadores de comida para peces, pero ninguno me estimulaba tanto como para ponerme a llevarlo a cabo... hasta que leí que la pantalla del teléfono Nokia 5110 (retroiluminada, monocromo y la friolera de 48 x 84 pixels de resolución) se podía conectar a la placa y, a través de unas librerías, utilizarlo como dispositivo de pantalla. Entonces surgió una idea: ¿por qué quedarse en hacer videojuegos si se puede hacer la consola? Estaba naciendo la Gamepan, la consola "low-cost".</div>
+<br>
+<div>El presupuesto (aproximado) ha sido el siguiente (comprado en tiendas online):</div>
+<div>
+<ul>
+<li class="lista_items">Arduino + cable de alimentación USB: 6€</li>
+<li class="lista_items">Pantalla Nokia 5110: 3€</li>
+<li class="lista_items">Cables: 0,50€</li>
+<li class="lista_items">Carcasa (opcional): 2€</li>
+<li class="lista_items">Joystick analógico: 2€</li>
+<li class="lista_items">Módulo zumbador (altavoz): 1,75€</li>
+<li class="lista_items">Pulsador: 1€</li>
+<li class="lista_items">Tablero de conexiones (protoboard): 1,75€</li>
+<li class="lista_items">Resistencia: 0€</li>
+<li class="lista_items">Maderas, tornillos y clavos: 0€</li>
+</ul>
+</div>
+
+<div>En total unos 18€. Teniendo en cuenta que en mercado de segunda mano hay consolas Nintendo DS de la primera generación por menos de 20€, se puede afirmar que el que quiera esta consola para jugar está perdiendo dinero, ya que la calidad es discutible y de momento sólo tiene un juego disponible. Ahora bien, si lo que uno quiere es divertirse y aprender puede que  sean de los 18€ mejor invertidos. Sobre todo si eres un chaval de entre 12 y 83 años y te gusta ver como funcionan las cosas.</div>
+<br>
+<div>
+Existen unas cuantas consolas basadas en Arduino. Son geniales, muy vistosas y tienen diseños muy cuidados. También tienen un buen puñado de juegos. Esta no es la mejor ni mucho menos, pero es mi preferida: LA GAMEPAN. 
+ </div>
+<br>
+<div class="subcategoria">Bricolaje y tornillería</div>
+<br>
+<div>La parte de bricolaje no la voy a explicar porque, como se puede observar, Gamepan es una consola poco vistosa: un aglomerado, un pedazo de madera de una caja de vino, tornillos, arandelas y clavos. Un destornillador, algo de maña y saber que los martillazos en los dedos son dolorosos pero no mucho. Cada uno que se apañe como pueda.</div>
+<br>
+<div class="subcategoria">Pantalla Nokia 5110 - Conexiones</div>
+<div>
+<div id="imagen" class="imgsmall">
+    <img src="./img/lcd.jpg">
+</div>
+<ul>
+    <li class="lista_items">RST - Digital 3</li>
+    <li class="lista_items">CE - Digital 4</li>
+    <li class="lista_items">DC - Digital 5</li>
+    <li class="lista_items">Din - Digital 6</li>
+    <li class="lista_items">Clk - Digital 7v</li>
+    <li class="lista_items">Vcc - Sin uso</li>
+    <li class="lista_items">EL - 3.3V</li>
+    <li class="lista_items">Gnd - GND</li>
+</ul>
+</div>
+<div class="subcategoria">Joystick analógico - Conexiones</div>
+<div>
+<div id="imagen" class="imgsmall">
+    <img src="./img/joystick.jpg">
+</div>    
+<ul>
+    <li class="lista_items">SW - Digital 2</li>
+    <li class="lista_items">VRy - ANALOG IN A1</li>
+    <li class="lista_items">VRx - ANALOG IN A0</li>
+    <li class="lista_items">+5V - 5V (pasando por una resistencia)</li>
+    <li class="lista_items">GND - GND</li>
+</ul>
+</div>
+<div class="subcategoria">Pulsador (de izquierda a derecha, poniendolo boca arriba y con los conectores hacia arriba) - Conexiones</div>
+<div>
+<div id="imagen" class="imgsmall">
+    <img src="./img/pulsador.jpg">
+</div>
+<ul>
+    <li class="lista_items">GND</li>
+    <li class="lista_items">5V (pasando por una resistencia)</li>
+    <li class="lista_items">Digital 8</li>
+</ul>
+</div>
+<div class="subcategoria">Zumbador (de izquierda a derecha, poniendolo boca arriba y con los conectores hacia arriba) - Conexiones</div>
+<div>
+<div id="imagen" class="imgsmall">
+    <img src="./img/zumbador.jpg">
+</div>    
+<ul>
+    <li class="lista_items">Digital 9</li>
+    <li class="lista_items">5V (pasando por una resistencia)</li>
+    <li class="lista_items">GND</li>
+</ul>
+</div>
+<div class="subcategoria">Observaciones</div>
+<br>
+<div>Como hay que conectar varios elementos al mismo conector del Arduino, hay que utilizar la protoboard. En Internet hay información sobre qué es la protoboard y cómo utilizarla. Sobre el uso de las resistencias no tengo nada que decir: cogí una al azar y la alimentación de 5V pasa por ella. Quizás falten más resistencias o la que he utilizado no sea necesaria. Cuando algún experto en electrónica me asesore haré las modificaciones oportunas.</div>
+<br>
+<div>La alimentación de la placa Arduino se realiza a través de corriente de bajo voltaje (5V), por lo que no debería haber ningún peligro de descarga eléctrica. No obstante, si eres un chaval o chavala joven no hagas este proyecto tú sólo. Habla con tus padres o con tus profesores y que te echen una mano, que ya verás como están encantados de hacerlo. El martillo, en cambio, si es peligroso para los dedos, las mesas y para los azulejos de la cocina. ¡Cuidado! ;-) 
+</div>
+<br>
+<div class="subcategoria">Juegos</div>
+<div>
+<ul>
+    <li class="lista_items"><a href="./juegos/paniroid.ino" target="_blank">Paniroides (versión Beta, no criticar aún)</a></li>
+</ul>
+<div id="imagen" class="imgsmall">
+    <img src="./img/paniroides.jpg">
+</div> 
+</div>
+
+
+<br>
+<div class="subcategoria">Gamepan en acción - Vídeo</div>
+<div>
+<div id="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/w4c2sFnHcWE" frameborder="0" allowfullscreen></iframe>
+</div> 
+</div>
+
+
+<br>
+<br>
+<br>
+<div id="creditos">
+    (sin copyright) Fernando Paniagua, 2015
+</div>
+</div>
+</body>
+</html>

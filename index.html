@@ -1,114 +1,13 @@
-<!DOCTYPE html>
-<html lang="es">
-
+<!doctype html>
+<html lang="en" data-beasties-container>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>La Fábrica de Androides</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-
+  <meta charset="utf-8">
+  <title>Lafabricadeandroides</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>@layer theme,base,components,utilities;@layer theme{:root{--font-sans:ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";--font-mono:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;--color-black:#000;--color-white:#fff;--default-font-family:var(--font-sans);--default-mono-font-family:var(--font-mono)}}@layer base{*,:after,:before{box-sizing:border-box;margin:0;padding:0;border:0 solid}html{line-height:1.5;-webkit-text-size-adjust:100%;tab-size:4;font-family:var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");font-feature-settings:var(--default-font-feature-settings, normal);font-variation-settings:var(--default-font-variation-settings, normal);-webkit-tap-highlight-color:transparent}}@layer utilities{}body{background-color:var(--color-black);color:var(--color-white)}</style><link rel="stylesheet" href="styles-VYG6XPSP.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-VYG6XPSP.css"></noscript></head>
 <body>
-
-    <!-- Header with logo -->
-    <header>
-        <img src="images/lfda-texto.png" alt="Logo de La Fábrica de Androides">
-        <p>Powered by Fernando Paniagua</p>
-    </header>
-
-    <!-- Game cards container -->
-    <div class="container">
-        <div class="card">
-            <img src="https://play-lh.googleusercontent.com/xU67Fr6k3nWA0P1KT9S9ydtcvOuWryRK6zv5I1sno2lqn7NhpVyh53IFt1ycscnF7sg=w526-h296-rw"
-                alt="Al Oeste de El Pisco">
-            <div class="card-content">
-                <div class="card-title">Al Oeste de El Pisco</div>
-                <div class="card-platform">Plataforma: Android</div>
-                <a href="https://play.google.com/store/apps/details?id=com.lafabricadeandroides.aloestedelpiscorun&hl=es"
-                    class="card-link">Ver más</a>
-            </div>
-        </div>
-
-        <div class="card">
-            <img src="https://play-lh.googleusercontent.com/9u8zky1dGLH_remK35ocnUqNYVJwXR9L_XdpVzKcX7eZDZxbWQ1Ct-S0hH4MBWLQsLA=w526-h296-rw"
-                alt="Moon Lander">
-            <div class="card-content">
-                <div class="card-title">Moon Lander</div>
-                <div class="card-platform">Plataforma: Android</div>
-                <a href="https://play.google.com/store/apps/details?id=com.lafabricadeandroides.moonlander&hl=es"
-                    class="card-link">Ver más</a>
-            </div>
-        </div>
-
-        <div class="card">
-            <img src="https://img.itch.zone/aW1nLzgzODUxNjMucG5n/original/VuhSif.png" alt="Beyond Betelgeuse">
-            <div class="card-content">
-                <div class="card-title">Beyond Betelgeuse</div>
-                <div class="card-platform">Plataforma: Windows / Linux</div>
-                <a href="https://fpaniagua.itch.io/beyond-betelgeuse" class="card-link">Ver más</a>
-            </div>
-        </div>
-
-        <div class="card">
-            <img src="https://img.itch.zone/aW1hZ2UvMTQ0Nzg4Ni84NDUzNzMzLnBuZw==/original/u9FR2k.png"
-                alt="The Boss on the Chains">
-            <div class="card-content">
-                <div class="card-title">The Boss on the Chains</div>
-                <div class="card-platform">Plataforma: Windows</div>
-                <a href="https://fpaniagua.itch.io/the-boss-on-the-chains" class="card-link">Ver más</a>
-            </div>
-        </div>
-
-        <div class="card">
-            <img src="images/roland.png" alt="Roland On The Ropes - Python Remake">
-            <div class="card-content">
-                <div class="card-title">Roland On The Ropes - Python Remake</div>
-                <div class="card-platform">Plataforma: Python</div>
-                <a href="https://www.pygame.org/project/3494/5570" class="card-link">Ver más</a>
-            </div>
-        </div>
-
-        <div class="card">
-            <img src="images/gamecovers.png" alt="Game Covers">
-            <div class="card-content">
-                <div class="card-title">Game Covers</div>
-                <div class="card-platform">Plataforma: Web (Angular App)</div>
-                <a href="https://fpaniaguaangular.github.io/gamecovers/" class="card-link">Ver más</a>
-            </div>
-        </div>
-
-        <div class="card">
-            <img src="https://m.media-amazon.com/images/I/81RpMuW+FgL.png" alt="Toilet Paper Bird">
-            <div class="card-content">
-                <div class="card-title">Toilet Paper Bird</div>
-                <div class="card-platform">Plataforma: Dispositivos Amazon</div>
-                <a href="https://www.amazon.es/Paniagua-iPlay-Toilet-Paper-Bird/dp/B085YZSKKB/" class="card-link">Ver
-                    más</a>
-            </div>
-        </div>
-
-        <div class="card">
-            <img src="images/batallagalactica.png" alt="Batalla Galáctica">
-            <div class="card-content">
-                <div class="card-title">Batalla Galáctica</div>
-                <div class="card-platform">Plataforma: Web</div>
-                <a href="./webgames/sw/index.html" class="card-link">Ver
-                    más</a>
-            </div>
-        </div>
-
-        <div class="card">
-            <img src="images/kittyrescue.png" alt="Kitty Rescue">
-            <div class="card-content">
-                <div class="card-title">Kitty Rescue</div>
-                <div class="card-platform">Plataforma: Web</div>
-                <a href="./webgames/kittyrescue/index.html" class="card-link">Ver
-                    más</a>
-            </div>
-        </div>
-
-    </div>
-
-</body>
-
+  <app-root></app-root>
+<script src="main-26CGAQSP.js" type="module"></script></body>
 </html>

@@ -1,0 +1,125 @@
+{
+  "configVersion": 1,
+  "timestamp": 1771088422294,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-G2UHZN2D.js",
+        "/manifest.webmanifest",
+        "/styles-VYG6XPSP.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/icons/icon-128x128.png",
+        "/icons/icon-144x144.png",
+        "/icons/icon-152x152.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-256x256.png",
+        "/icons/icon-384x384.png",
+        "/icons/icon-48x48.png",
+        "/icons/icon-512x512.png",
+        "/icons/icon-72x72.png",
+        "/icons/icon-96x96.png",
+        "/images/app-covers/files-organizer.png",
+        "/images/app-covers/game-covers.png",
+        "/images/book-covers/construct.png",
+        "/images/book-covers/digitalizacion-gm.png",
+        "/images/book-covers/lareddelmal.png",
+        "/images/book-covers/lenguajes-de-marcas-2ed.png",
+        "/images/book-covers/marketing-digital.png",
+        "/images/book-covers/programacion-de-servicios-y-procesos.png",
+        "/images/book-covers/python.png",
+        "/images/game-covers/3enraya-fortran.png",
+        "/images/game-covers/al-oeste-de-el-pisco.png",
+        "/images/game-covers/batalla-galactica.png",
+        "/images/game-covers/beyond-betelgeuse.png",
+        "/images/game-covers/galacticwar.png",
+        "/images/game-covers/kitty-rescue.png",
+        "/images/game-covers/moonlander.png",
+        "/images/game-covers/roland-on-the-ropes.png",
+        "/images/game-covers/the-boss-on-chains.png",
+        "/images/game-covers/toilet-paper-bird.png",
+        "/images/logo-mini.png",
+        "/images/logo_black.png",
+        "/images/misc-covers/gamepan.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/favicon.ico": "13e3dd7d44c3432c5958e98498481510e9fd8ca6",
+    "/icons/icon-128x128.png": "5c82935da0192d2dc0eee20ea790fea3d58150d0",
+    "/icons/icon-144x144.png": "d3fb7a860b9c6916a292417213e4da6524d596b9",
+    "/icons/icon-152x152.png": "728768c97bc9d583e7a0bf375625ebcc1381ca90",
+    "/icons/icon-192x192.png": "5982148155b14e9dd84b019ec606adb460dba696",
+    "/icons/icon-256x256.png": "57741056489cbe4983d449c4369dd9bab5963424",
+    "/icons/icon-384x384.png": "8030530fc4d6e1bd67d12aa538e4fb8e9bd9d623",
+    "/icons/icon-48x48.png": "ff13f1413aee43d38d5677c241ed2635089516d0",
+    "/icons/icon-512x512.png": "1221815e5ddf421bbfb71085c87ffecb07420ba4",
+    "/icons/icon-72x72.png": "646f6e691bdcbaae585b2c1c93f593b820fc12d4",
+    "/icons/icon-96x96.png": "f288dbce2f7d7febb99d1ed9a4dd1d54f6a8872b",
+    "/images/app-covers/files-organizer.png": "8273298887f1539c4dbf57afe94a9ba9dea50b8d",
+    "/images/app-covers/game-covers.png": "d2b7cd3f3d43a44de339ea0a2b5480fc4a220cbb",
+    "/images/book-covers/construct.png": "546a02388dff6a866b97acb7c1102cf44123defa",
+    "/images/book-covers/digitalizacion-gm.png": "fb4a82ba815512aa3c32d3d53f92fd7bb3738bff",
+    "/images/book-covers/lareddelmal.png": "dc8daeffd007d9dfcb5b9aad4dbcbf8674aad71d",
+    "/images/book-covers/lenguajes-de-marcas-2ed.png": "971f6df23592ba783dcb14a0c9eb688f15e29bda",
+    "/images/book-covers/marketing-digital.png": "0c42aa822d2c7443930ca0a2af24e1018be51dc6",
+    "/images/book-covers/programacion-de-servicios-y-procesos.png": "4f35bdeea0f3399251e8716210cc59bb37334219",
+    "/images/book-covers/python.png": "f9ed10f3a6190e7679dc33ce9e3c4f7525417804",
+    "/images/game-covers/3enraya-fortran.png": "3401a41e6f13be36af4533801ad84549571ca6b0",
+    "/images/game-covers/al-oeste-de-el-pisco.png": "a438715a0c2686313ddcffd09b057c1a94af2175",
+    "/images/game-covers/batalla-galactica.png": "669af4c90e9555c8f658d0ba2cfa97408e92baed",
+    "/images/game-covers/beyond-betelgeuse.png": "321660f943615de456c08a487e882fb45f64a2ef",
+    "/images/game-covers/galacticwar.png": "6672d582a516082bff6f90373bf154ae2bed2a68",
+    "/images/game-covers/kitty-rescue.png": "38f69d50a84a917d99f0959976b3bb98a4fd9119",
+    "/images/game-covers/moonlander.png": "10df9bafad7143f39007c75d4a7524478c689ace",
+    "/images/game-covers/roland-on-the-ropes.png": "0d55c19ba5d0eea8b225fbcaae1c97bb0c548d35",
+    "/images/game-covers/the-boss-on-chains.png": "fe745c81e8440582bde8e07429fa5b62c3017b8b",
+    "/images/game-covers/toilet-paper-bird.png": "2ac92de39bc74931a0129c21fed792309ede93f9",
+    "/images/logo-mini.png": "fdc610d366101cd33f13ca52dc4daa156d3bde87",
+    "/images/logo_black.png": "ff6c5db8902ed0bba0add20aad990f4233424e4a",
+    "/images/misc-covers/gamepan.png": "66170736213b30c4d4ea4aecb19f7bc7e3e5e6de",
+    "/index.html": "986f1ffc6aca1acc7976a7b5ef23ed7445dc7204",
+    "/main-G2UHZN2D.js": "300352a55f7c5ed699aab6d09447d9b6090aa52b",
+    "/manifest.webmanifest": "e0a1cd9788ca5049bc68f198e723740cae28cf19",
+    "/styles-VYG6XPSP.css": "365f7b310a1006b9839a12a3dbd14da395636082"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

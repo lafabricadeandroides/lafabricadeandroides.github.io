@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1771088422294,
+  "timestamp": 1771090104117,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-G2UHZN2D.js",
+        "/main-GR7GBA5H.js",
         "/manifest.webmanifest",
         "/styles-VYG6XPSP.css"
       ],
@@ -98,8 +98,8 @@
     "/images/logo-mini.png": "fdc610d366101cd33f13ca52dc4daa156d3bde87",
     "/images/logo_black.png": "ff6c5db8902ed0bba0add20aad990f4233424e4a",
     "/images/misc-covers/gamepan.png": "66170736213b30c4d4ea4aecb19f7bc7e3e5e6de",
-    "/index.html": "986f1ffc6aca1acc7976a7b5ef23ed7445dc7204",
-    "/main-G2UHZN2D.js": "300352a55f7c5ed699aab6d09447d9b6090aa52b",
+    "/index.html": "fcbf4cc6789727ef541749070ee8e45597807212",
+    "/main-GR7GBA5H.js": "05b04279bde18f3b894f3369e9494a4b1cee09b1",
     "/manifest.webmanifest": "e0a1cd9788ca5049bc68f198e723740cae28cf19",
     "/styles-VYG6XPSP.css": "365f7b310a1006b9839a12a3dbd14da395636082"
   },

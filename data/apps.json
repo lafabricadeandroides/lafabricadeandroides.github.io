@@ -1,0 +1,18 @@
+{
+  "aplicaciones": [
+    {
+      "id": 1,
+      "titulo": "Game Covers Library",
+      "imagenCaratula": "/images/app-covers/game-covers.png",
+      "enlace": "https://fpaniaguaangular.github.io/gamecovers/",
+      "info": "Angular"
+    },
+    {
+      "id": 2,
+      "titulo": "Files Organizer",
+      "imagenCaratula": "/images/app-covers/files-organizer.png",
+      "enlace": "https://github.com/lafabricadeandroides/LFDAFilesOrganizer",
+      "info": "Java"
+    }
+  ]
+}

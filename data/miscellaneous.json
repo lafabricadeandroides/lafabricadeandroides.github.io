@@ -1,0 +1,11 @@
+{
+  "miscelaneas": [
+    {
+      "id": 1,
+      "titulo": "GamePan - La Consola",
+      "imagenCaratula": "/images/misc-covers/gamepan.png",
+      "enlace": "https://lafabricadeandroides.github.io/gamepan/",
+      "info": "Arduino"
+    }
+  ]
+}

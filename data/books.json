@@ -1,0 +1,54 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "Lenguajes de marcas 2ª Edición",
+      "imagenCaratula": "/images/book-covers/lenguajes-de-marcas-2ed.png",
+      "enlace": "https://www.paraninfo.es/catalogo/9788428367882/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion-2-%C2%AA-edicion-2025",
+      "info": "Ediciones Paraninfo"
+    },
+    {
+      "id": 2,
+      "titulo": "Programación de Servicios y Procesos",
+      "imagenCaratula": "/images/book-covers/programacion-de-servicios-y-procesos.png",
+      "enlace": "https://www.paraninfo.es/catalogo/9788413665269/programacion-de-servicios-y-procesos",
+      "info": "Ediciones Paraninfo"
+    },
+    {
+      "id": 3,
+      "titulo": "Marketing Digital 2ª Edición",
+      "imagenCaratula": "/images/book-covers/marketing-digital.png",
+      "enlace": "https://www.paraninfo.es/catalogo/9788413665139/marketing-digital-2-%c2%aa-edicion",
+      "info": "Ediciones Paraninfo"
+    },
+    {
+      "id": 4,
+      "titulo": "Digitalización Aplicada a los Sectores Productivos (GM)",
+      "imagenCaratula": "/images/book-covers/digitalizacion-gm.png",
+      "enlace": "https://www.paraninfo.es/catalogo/9788428359108/digitalizacion-aplicada-a-los-sectores-productivos-gm--edicion-2026-",
+      "info": "Ediciones Paraninfo"
+    },
+    {
+      "id": 5,
+      "titulo": "Aprende un Poco de Python",
+      "imagenCaratula": "/images/book-covers/python.png",
+      "enlace": "https://www.amazon.es/Aprende-poco-Python-haciendo-ejercicios-ebook/dp/B0F3WCXY6R/",
+      "info": "Amazon"
+    },
+    {
+      "id": 6,
+      "titulo": "Creación de Videojuegos con Construct 2",
+      "imagenCaratula": "/images/book-covers/construct.png",
+      "enlace": "https://www.amazon.es/Creaci%C3%B3n-videojuegos-Construct-Preparando-extraterrestres-ebook/dp/B01304ZV5Q/",
+      "info": "Amazon"
+    },
+    {
+      "id": 7,
+      "titulo": "La Red del Mal",
+      "imagenCaratula": "/images/book-covers/lareddelmal.png",
+      "enlace": "https://www.amazon.es/red-del-mal-Fernando-Paniagua-ebook/dp/B00H7YCCQW/",
+      "info": "Amazon"
+    } 
+
+  ]
+}

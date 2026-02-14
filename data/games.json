@@ -1,0 +1,74 @@
+{
+  "juegos": [
+    {
+      "id": 1,
+      "titulo": "Al Oeste de El Pisco",
+      "imagenCaratula": "/images/game-covers/al-oeste-de-el-pisco.png",
+      "enlace": "https://play.google.com/store/apps/details?id=com.lafabricadeandroides.aloestedelpiscorun&hl=es_419",
+      "info": "Android"
+    },
+    {
+      "id": 2,
+      "titulo": "Batalla Galáctica",
+      "imagenCaratula": "/images/game-covers/batalla-galactica.png",
+      "enlace": "https://lafabricadeandroides.github.io/webgames/sw/",
+      "info": "JavaScript"
+    },
+    {
+      "id": 3,
+      "titulo": "Beyond Betelgeuse",
+      "imagenCaratula": "/images/game-covers/beyond-betelgeuse.png",
+      "enlace": "https://fpaniagua.itch.io/beyond-betelgeuse",
+      "info": "Windows/Linux"
+    },
+    {
+      "id": 4,
+      "titulo": "Kitty Rescue",
+      "imagenCaratula": "/images/game-covers/kitty-rescue.png",
+      "enlace": "https://lafabricadeandroides.github.io/webgames/kittyrescue/",
+      "info": "JavaScript"
+    },
+    {
+      "id": 5,
+      "titulo": "Moon Lander",
+      "imagenCaratula": "/images/game-covers/moonlander.png",
+      "enlace": "https://play.google.com/store/apps/details?id=com.lafabricadeandroides.moonlander&hl=es_419",
+      "info": "Android"
+    },
+    {
+      "id": 6,
+      "titulo": "Roland on the Ropes",
+      "imagenCaratula": "/images/game-covers/roland-on-the-ropes.png",
+      "enlace": "https://www.pygame.org/project/3494/",
+      "info": "Python"
+    },
+    {
+      "id": 7,
+      "titulo": "The Boss on Chains",
+      "imagenCaratula": "/images/game-covers/the-boss-on-chains.png",
+      "enlace": "https://fpaniagua.itch.io/the-boss-on-the-chains",
+      "info": "Windows"
+    },
+    {
+      "id": 8,
+      "titulo": "Toilet Paper Bird",
+      "imagenCaratula": "/images/game-covers/toilet-paper-bird.png",
+      "enlace": "https://www.amazon.es/Paniagua-iPlay-Toilet-Paper-Bird/dp/B085YZSKKB/",
+      "info": "Amazon"
+    },
+    {
+      "id": 9,
+      "titulo": "Galactic War Vector Game",
+      "imagenCaratula": "/images/game-covers/galacticwar.png",
+      "enlace": "https://github.com/fernandopaniagua/GalacticWarVectorGame",
+      "info": "Java"
+    },
+    {
+      "id": 10,
+      "titulo": "Tres en raya",
+      "imagenCaratula": "/images/game-covers/3enraya-fortran.png",
+      "enlace": "https://github.com/fernandopaniagua/TresEnRaya-Fortran",
+      "info": "Fortran 90"
+    }
+  ]
+}

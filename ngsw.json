@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1771174314077,
+  "timestamp": 1771175327433,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -39,6 +39,7 @@
         "/icons/icon-96x96.png",
         "/images/app-covers/files-organizer.png",
         "/images/app-covers/game-covers.png",
+        "/images/app-covers/juliaset.png",
         "/images/app-covers/paniscript.png",
         "/images/book-covers/construct.png",
         "/images/book-covers/digitalizacion-gm.png",
@@ -79,6 +80,7 @@
     "/icons/icon-96x96.png": "f288dbce2f7d7febb99d1ed9a4dd1d54f6a8872b",
     "/images/app-covers/files-organizer.png": "8273298887f1539c4dbf57afe94a9ba9dea50b8d",
     "/images/app-covers/game-covers.png": "d2b7cd3f3d43a44de339ea0a2b5480fc4a220cbb",
+    "/images/app-covers/juliaset.png": "77c4536b78aba45b4de31b510d90b581c868ab2f",
     "/images/app-covers/paniscript.png": "1129114c644d9ab549e3eca46307b671b8e0c7ff",
     "/images/book-covers/construct.png": "546a02388dff6a866b97acb7c1102cf44123defa",
     "/images/book-covers/digitalizacion-gm.png": "fb4a82ba815512aa3c32d3d53f92fd7bb3738bff",

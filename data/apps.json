@@ -20,6 +20,13 @@
       "imagenCaratula": "/images/app-covers/paniscript.png",
       "enlace": "https://lafabricadeandroides.github.io/paniscript/index.html",
       "info": "JavaScript"
+    },
+    {
+      "id": 4,
+      "titulo": "Julia Set Generator",
+      "imagenCaratula": "/images/app-covers/juliaset.png",
+      "enlace": "https://github.com/fernandopaniagua/Julia-Set",
+      "info": "Java"
     }
   ]
 }

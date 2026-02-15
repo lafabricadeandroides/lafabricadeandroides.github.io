@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'Amstrad';
+	src: 
+       url('../fonts/amstrad_cpc464.woff') format('woff'),
+       url('../fonts/amstrad_cpc464.eot') format('embedded-opentype'),
+       url('../fonts/amstrad_cpc464.ttf') format('truetype'),
+       url('../fonts/amstrad_cpc464.svg') format('svg');
+}
+
+.amstrad_color {
+	background-color: #00007f;
+	color: #ffff00;
+	font-family: 'Amstrad';
+	font-size: 1em;
+}
+
+.margenes {
+	margin-top: 5%;
+	margin-left: 5%;
+}
+
+#div_portada {
+	position: fixed;
+	width: 90%;
+	left:0px;
+	top:0px;
+}
+
+#div_principal {
+	position: fixed;
+	width: 90%;
+	left:-100%;
+	top:0px;
+}

@@ -13,6 +13,13 @@
       "imagenCaratula": "/images/app-covers/files-organizer.png",
       "enlace": "https://github.com/lafabricadeandroides/LFDAFilesOrganizer",
       "info": "Java"
+    },
+    {
+      "id": 3,
+      "titulo": "PaniScript",
+      "imagenCaratula": "/images/app-covers/paniscript.png",
+      "enlace": "https://github.com/paniscript",
+      "info": "JavaScript"
     }
   ]
 }

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<!--
+Paniagua IPlay.
+Developed by Fernando Paniagua. 2016. 
+info@paniaguaip.info
+
+"Más fácilmente se añade lo que falta que se quita lo que sobra"
+Francisco de Quevedo
+-->
+<head>
+	<meta charset="UTF-8">
+	<title>Paniagua iPlay</title>
+	<link rel="stylesheet" href="./css/paniaguaip.css">
+	<script type="text/javascript" src="./js/jquery-2.2.0.min.js"></script>
+	<script>
+	var comando="";
+	$(document).ready(function(){
+		$("body").keydown(function(tecla){ //Firefox doesn't understand keypress event??
+			if(tecla.keyCode == 8) { //Delete key
+				tecla.preventDefault();//Disable back in history browser
+				$("#input_box").html($("#input_box").html().substring(0,$("#input_box").html().length-1));
+				comando=comando.substring(0,comando.length-1);
+		    } else if ((tecla.keyCode==13) && (comando!="")) {//Enter key
+				$("#input_box").html($("#input_box").html()+"<br>");
+				if (comando.toUpperCase()=="CLS"){
+					$("#input_box").html("");
+				} else if (comando.toUpperCase()=="CREDITS"){			
+					$("#input_box").html("");
+					$("#input_box").html($("#input_box").html()+"<br>********************************************************************<br>");
+					$("#input_box").html($("#input_box").html()+"<br>Paniagua iPlay is a funny game studio by Paniagua family and friends<br>");					
+					$("#input_box").html($("#input_box").html()+"<br><br>Contact info@paniaguaip.info<br>");					
+					$("#input_box").html($("#input_box").html()+"<br>********************************************************************<br>");
+					$("#input_box").html($("#input_box").html()+"<br>");
+				} else if (comando.toUpperCase()=="HELP"){	
+					$("#input_box").html("");		
+					$("#input_box").html($("#input_box").html()+"<br>List of Paniscript commands:<br>");
+					$("#input_box").html($("#input_box").html()+"<br><br>CLS<br>");
+					$("#input_box").html($("#input_box").html()+"<br>HELP<br>");
+					$("#input_box").html($("#input_box").html()+"<br>CREDITS<br>");
+					$("#input_box").html($("#input_box").html()+"<br>LIST<br>");
+					$("#input_box").html($("#input_box").html()+"<br>CAT<br>");
+					$("#input_box").html($("#input_box").html()+"<br>SET MODE MONO<br>");
+					$("#input_box").html($("#input_box").html()+"<br>SET MODE COLOR<br>");
+					$("#input_box").html($("#input_box").html()+"<br>RUN KITTYRESCUE<br>");
+					$("#input_box").html($("#input_box").html()+"<br>RUN BATALLAGALACTICA<br>");
+					$("#input_box").html($("#input_box").html()+"<br>HOLA<br>");
+					$("#input_box").html($("#input_box").html()+"<br>SIRI<br>");
+					$("#input_box").html($("#input_box").html()+"<br>HELLO PANIAGUA<br>");
+					$("#input_box").html($("#input_box").html()+"<br>");
+				} else if ((comando.toUpperCase()=="CAT") || (comando.toUpperCase()=="LIST")){
+					$("#input_box").html("");
+					$("#input_box").html($("#input_box").html()+"<br>DRIVE P: user 0");
+					$("#input_box").html($("#input_box").html()+"<br><br>Kitty Rescue (2016) * HTML Version * Write 'Run KittyRescue' and press Enter");
+					$("#input_box").html($("#input_box").html()+"<br><br>Batalla Galactica  (2022) * HTML Version * Write 'Run BatallaGalactica' and press Enter<br>");
+					$("#input_box").html($("#input_box").html()+"<br>");
+				} else if (comando.toUpperCase().indexOf("KITTYRESCUE")>-1){
+					window.open("https://lafabricadeandroides.github.io/webgames/kittyrescue/", "_blank");
+					$("#input_box").html($("#input_box").html()+"<br>");
+				} else if (comando.toUpperCase().indexOf("BATALLAGALACTICA")>-1){
+					window.open("https://lafabricadeandroides.github.io/webgames/sw/", "_blank");
+					$("#input_box").html($("#input_box").html()+"<br>");
+				} else if (comando.toUpperCase()=="SET MODE MONO"){	
+					$("#input_box").html("");
+					$(document.body).css({"background-color":"#002f00", "color":"#00e700"});
+					$("#input_box").html($("#input_box").html()+"<br>");
+				} else if (comando.toUpperCase()=="SET MODE COLOR"){	
+					$("#input_box").html("");
+					$(document.body).css({"background-color":"#00007f", "color":"#ffff00"});							
+					$("#input_box").html($("#input_box").html()+"<br>");
+				} else if (comando.toUpperCase()=="HOLA"){	
+					$("#input_box").html($("#input_box").html()+"<br>Hola...<br><br>");
+				} else if (comando.toUpperCase()=="SIRI"){	
+					$("#input_box").html($("#input_box").html()+"<br>Aqui no esta Siri. Esto es mas cutre.<br><br>");
+				} else if (comando.toUpperCase()=="HELLO PANIAGUA"){	
+					$("#input_box").html($("#input_box").html()+"<br>Hello, humano.<br><br>");
+				} else if (comando.toUpperCase().indexOf("GILIPOLLAS")>-1){	
+					$("#input_box").html($("#input_box").html()+"<br>Asi no se puede ir por la vida, humano.<br><br>");
+				} else if (comando.toUpperCase().indexOf("CABRON")>-1){	
+					$("#input_box").html($("#input_box").html()+"<br>adj. malson. coloq. Dicho de una persona, de un animal o de una cosa: Que hace malas pasadas o resulta molesto.<br><br>");
+				} else if (comando.toUpperCase().indexOf("PUTA")>-1){	
+					$("#input_box").html($("#input_box").html()+"<br>Es una profesion antigua, dicen que la que mas.<br><br>");
+				} else {
+					$("#input_box").html($("#input_box").html() + "<br>Syntax error<br>Ready<br>");
+					$("#input_box").html($("#input_box").html()+"<br>");
+				}
+				comando="";
+			} else {
+				if (tecla.keyCode!=13) {
+					comando+=String.fromCharCode(tecla.keyCode);
+					$("#input_box").html($("#input_box").html()+String.fromCharCode(tecla.keyCode));
+				}
+			}
+		});
+	});
+
+
+	</script>
+</head>
+<body class="amstrad_color">
+	<div id="div_portada" class="margenes">
+		PaniaguaIP 256K Videogames (v1)
+		<br>
+		<p>(C)2016 Paniagua iPlay Games Studio</p>
+		<p>PANISCRIPT 1.0</p>
+		<p>Ready</p>
+		<p id="input_box"></p>
+	</div>	
+	<div id="div_principal">
+	</div>
+</body>
+</html>

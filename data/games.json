@@ -69,6 +69,13 @@
       "imagenCaratula": "/images/game-covers/3enraya-fortran.png",
       "enlace": "https://github.com/fernandopaniagua/TresEnRaya-Fortran",
       "info": "Fortran 90"
+    },
+    {
+      "id": 11,
+      "titulo": "Tejeda de Tiétar Flight Simulator",
+      "imagenCaratula": "/images/game-covers/tdtfs.png",
+      "enlace": "https://tejedadetietarflightsimulator.github.io/",
+      "info": "Unity Web"
     }
   ]
 }

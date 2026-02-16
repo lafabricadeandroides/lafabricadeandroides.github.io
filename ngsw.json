@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1771229094766,
+  "timestamp": 1771279355572,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -57,6 +57,7 @@
         "/images/game-covers/kitty-rescue.png",
         "/images/game-covers/moonlander.png",
         "/images/game-covers/roland-on-the-ropes.png",
+        "/images/game-covers/tdtfs.png",
         "/images/game-covers/the-boss-on-chains.png",
         "/images/game-covers/toilet-paper-bird.png",
         "/images/logo-mini.png",
@@ -99,6 +100,7 @@
     "/images/game-covers/kitty-rescue.png": "38f69d50a84a917d99f0959976b3bb98a4fd9119",
     "/images/game-covers/moonlander.png": "10df9bafad7143f39007c75d4a7524478c689ace",
     "/images/game-covers/roland-on-the-ropes.png": "0d55c19ba5d0eea8b225fbcaae1c97bb0c548d35",
+    "/images/game-covers/tdtfs.png": "d9efdaef10f1c97760c1763458fdd28c478e982b",
     "/images/game-covers/the-boss-on-chains.png": "fe745c81e8440582bde8e07429fa5b62c3017b8b",
     "/images/game-covers/toilet-paper-bird.png": "2ac92de39bc74931a0129c21fed792309ede93f9",
     "/images/logo-mini.png": "fdc610d366101cd33f13ca52dc4daa156d3bde87",

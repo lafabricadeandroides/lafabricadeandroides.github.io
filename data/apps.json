@@ -27,6 +27,13 @@
       "imagenCaratula": "/images/app-covers/juliaset.png",
       "enlace": "https://github.com/fernandopaniagua/Julia-Set",
       "info": "Java"
+    },
+    {
+      "id": 5,
+      "titulo": "Tkinter Simple Framework",
+      "imagenCaratula": "/images/app-covers/tkinter-framework.png",
+      "enlace": "https://github.com/fpaniaguapython/tkinter_simple_framework",
+      "info": "Python"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1771175327433,
+  "timestamp": 1771229094766,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -41,6 +41,7 @@
         "/images/app-covers/game-covers.png",
         "/images/app-covers/juliaset.png",
         "/images/app-covers/paniscript.png",
+        "/images/app-covers/tkinter-framework.png",
         "/images/book-covers/construct.png",
         "/images/book-covers/digitalizacion-gm.png",
         "/images/book-covers/lareddelmal.png",
@@ -82,6 +83,7 @@
     "/images/app-covers/game-covers.png": "d2b7cd3f3d43a44de339ea0a2b5480fc4a220cbb",
     "/images/app-covers/juliaset.png": "77c4536b78aba45b4de31b510d90b581c868ab2f",
     "/images/app-covers/paniscript.png": "1129114c644d9ab549e3eca46307b671b8e0c7ff",
+    "/images/app-covers/tkinter-framework.png": "9919925f1da3ee34e43c125e516749f315e36146",
     "/images/book-covers/construct.png": "546a02388dff6a866b97acb7c1102cf44123defa",
     "/images/book-covers/digitalizacion-gm.png": "fb4a82ba815512aa3c32d3d53f92fd7bb3738bff",
     "/images/book-covers/lareddelmal.png": "dc8daeffd007d9dfcb5b9aad4dbcbf8674aad71d",

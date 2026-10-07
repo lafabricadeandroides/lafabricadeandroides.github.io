@@ -48,6 +48,13 @@
       "imagenCaratula": "/images/book-covers/lareddelmal.png",
       "enlace": "https://www.amazon.es/red-del-mal-Fernando-Paniagua-ebook/dp/B00H7YCCQW/",
       "info": "Amazon"
+    },
+    {
+      "id": 8,
+      "titulo": "Digitalización Aplicada a los Sectores Productivos (GS)",
+      "imagenCaratula": "/images/book-covers/digitalizacion-gs.png",
+      "enlace": "https://www.paraninfo.es/catalogo/9788428359092/digitalizacion-aplicada-a-los-sectores-productivos-grado-superior---edicion-2026",
+      "info": "Ediciones Paraninfo"
     } 
 
   ]

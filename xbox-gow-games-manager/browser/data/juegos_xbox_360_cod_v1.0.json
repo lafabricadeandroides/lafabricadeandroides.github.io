@@ -1,0 +1,1451 @@
+[
+  {
+    "name": "Battlefield 4",
+    "disco": "Disco 60GB",
+    "cover": "caratulas_xbox360/Battlefield 4.jpg",
+    "release_year": 2013,
+    "genre": "Acción, shooter en primera persona",
+    "synopsis": "Shooter bélico en el que un escuadrón de élite combate en conflictos modernos con campaña y modos multijugador.",
+    "metacritic_score": 81
+  },
+  {
+    "name": "Call of Duty Ghots",
+    "disco": "Disco 60GB",
+    "cover": "caratulas_xbox360/Call of Duty Ghots.jpg",
+    "release_year": 2013,
+    "genre": "Acción, shooter en primera persona",
+    "synopsis": "Un grupo de soldados conocidos como Ghosts lucha por sobrevivir frente a una potencia que amenaza a Estados Unidos.",
+    "metacritic_score": 78
+  },
+  {
+    "name": "Kameo",
+    "disco": "Disco 60GB",
+    "cover": "caratulas_xbox360/Kameo.jpg",
+    "release_year": 2005,
+    "genre": "Acción, aventura",
+    "synopsis": "Una joven elfa capaz de transformarse en criaturas mágicas intenta rescatar a su familia y derrotar a un ejército invasor.",
+    "metacritic_score": 79
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "disco": "Disco 60GB",
+    "cover": "caratulas_xbox360/Left 4 Dead 2.jpg",
+    "release_year": 2009,
+    "genre": "Shooter, supervivencia cooperativa",
+    "synopsis": "Cuatro supervivientes atraviesan ciudades y pantanos infestados de zombis en una experiencia cooperativa de supervivencia.",
+    "metacritic_score": 89
+  },
+  {
+    "name": "Sniper Elite III",
+    "disco": "Disco 60GB",
+    "cover": "caratulas_xbox360/Sniper Elite III.jpg",
+    "release_year": 2014,
+    "genre": "Shooter táctico, sigilo",
+    "synopsis": "Un francotirador aliado se infiltra en el norte de África durante la Segunda Guerra Mundial para sabotear las fuerzas del Eje.",
+    "metacritic_score": 69
+  },
+  {
+    "name": "Sniper Ghost Warrior",
+    "disco": "Disco 60GB",
+    "cover": "caratulas_xbox360/Sniper Ghost Warrior.jpg",
+    "release_year": 2010,
+    "genre": "Shooter táctico",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 45
+  },
+  {
+    "name": "Test Drive Unlimited",
+    "disco": "Disco 60GB",
+    "cover": "caratulas_xbox360/Test Drive Unlimited.jpg",
+    "release_year": 2006,
+    "genre": "Carreras, mundo abierto",
+    "synopsis": "Juego de conducción centrado en carreras, mundo abierto, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 68
+  },
+  {
+    "name": "Test Drive Unlimited 2",
+    "disco": "Disco 60GB",
+    "cover": "caratulas_xbox360/Test Drive Unlimited 2.jpg",
+    "release_year": 2011,
+    "genre": "Carreras, mundo abierto",
+    "synopsis": "Juego de conducción centrado en carreras, mundo abierto, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 72
+  },
+  {
+    "name": "Ace Combat 6: Fires of Liberation",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Ace Combat 6_ Fires of Liberation.jpg",
+    "release_year": 2007,
+    "genre": "Combate aéreo, simulación",
+    "synopsis": "Videojuego de combate aéreo, simulación en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 80
+  },
+  {
+    "name": "Alice: Madness Returns",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Alice_ Madness Returns.jpg",
+    "release_year": 2011,
+    "genre": "Acción, aventura, plataformas",
+    "synopsis": "Videojuego de acción, aventura, plataformas en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 75
+  },
+  {
+    "name": "Alien: Isolation (Disc 1)",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Alien Isolation.jpg",
+    "release_year": 2014,
+    "genre": "Terror, supervivencia, sigilo",
+    "synopsis": "Aventura de terror y supervivencia en la que el jugador explora entornos peligrosos, afronta amenazas y busca cómo seguir adelante.",
+    "metacritic_score": 78
+  },
+  {
+    "name": "Alien: Isolation (Disc 2)",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Alien Isolation.jpg",
+    "release_year": 2014,
+    "genre": "Terror, supervivencia, sigilo",
+    "synopsis": "Aventura de terror y supervivencia en la que el jugador explora entornos peligrosos, afronta amenazas y busca cómo seguir adelante.",
+    "metacritic_score": 78
+  },
+  {
+    "name": "Aliens vs. Predator",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Aliens vs. Predator.jpg",
+    "release_year": 2010,
+    "genre": "Acción, shooter",
+    "synopsis": "Videojuego de acción, shooter en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 64
+  },
+  {
+    "name": "Alone in the Dark",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Alone in the Dark.jpg",
+    "release_year": 2008,
+    "genre": "Terror, acción, aventura",
+    "synopsis": "Aventura de terror y supervivencia en la que el jugador explora entornos peligrosos, afronta amenazas y busca cómo seguir adelante.",
+    "metacritic_score": 58
+  },
+  {
+    "name": "Altered Beast",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Altered Beast.jpg",
+    "release_year": 2005,
+    "genre": "Acción, beat 'em up",
+    "synopsis": "Videojuego de acción, beat 'em up en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 46
+  },
+  {
+    "name": "Batman: Arkham City",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Batman_ Arkham City.jpg",
+    "release_year": 2011,
+    "genre": "Acción, aventura, sigilo",
+    "synopsis": "Batman se enfrenta a villanos emblemáticos en un enorme distrito-prisión de Gotham, combinando combate, sigilo e investigación.",
+    "metacritic_score": 94
+  },
+  {
+    "name": "BioShock",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/BioShock.jpg",
+    "release_year": 2007,
+    "genre": "Shooter, aventura, ciencia ficción",
+    "synopsis": "Un accidente lleva al protagonista a Rapture, una ciudad submarina en ruinas donde experimentos y luchas de poder han desatado el caos.",
+    "metacritic_score": 96
+  },
+  {
+    "name": "BlackSite: Area 51",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/BlackSite_ Area 51.jpg",
+    "release_year": 2007,
+    "genre": "Shooter en primera persona",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 60
+  },
+  {
+    "name": "Call of Duty Classic",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Call of Duty Classic.jpg",
+    "release_year": 2009,
+    "genre": "Shooter en primera persona, bélico",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 78
+  },
+  {
+    "name": "Conan",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Conan.jpg",
+    "release_year": 2007,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 69
+  },
+  {
+    "name": "Crazy Taxy",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Crazy Taxy.jpg",
+    "release_year": 2010,
+    "genre": "Carreras, arcade",
+    "synopsis": "Juego de conducción centrado en carreras, arcade, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 59
+  },
+  {
+    "name": "Dante's Inferno",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Dante's Inferno.jpg",
+    "release_year": 2010,
+    "genre": "Acción, hack and slash",
+    "synopsis": "Videojuego de acción, hack and slash en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 75
+  },
+  {
+    "name": "Dark",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Dark.jpg",
+    "release_year": 2013,
+    "genre": "Acción, sigilo, RPG",
+    "synopsis": "Aventura de rol con exploración, combates y progresión del personaje a medida que avanza la historia.",
+    "metacritic_score": 38
+  },
+  {
+    "name": "Dead or Alive Xtreme 2",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Dead or Alive Xtreme 2.jpg",
+    "release_year": 2006,
+    "genre": "Deportes, simulación social",
+    "synopsis": "Videojuego deportivo de deportes, simulación social, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 53
+  },
+  {
+    "name": "Dead Pixels",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Dead Pixels.jpg",
+    "release_year": 2012,
+    "genre": "Acción, survival horror",
+    "synopsis": "Videojuego de acción, survival horror en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 70
+  },
+  {
+    "name": "Devil May Cry HD Collection",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Devil May Cry HD Collection.jpg",
+    "release_year": 2012,
+    "genre": "Acción, hack and slash",
+    "synopsis": "Videojuego de acción, hack and slash en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 67
+  },
+  {
+    "name": "Dreamcast Collection",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Dreamcast Collection.jpg",
+    "release_year": 2011,
+    "genre": "Compilación, arcade",
+    "synopsis": "Colección o experiencia arcade de partidas breves, centrada en la acción clásica y los desafíos de puntuación.",
+    "metacritic_score": 53
+  },
+  {
+    "name": "Duke Nukem Forever",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Duke Nukem Forever.jpg",
+    "release_year": 2011,
+    "genre": "Shooter en primera persona",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 54
+  },
+  {
+    "name": "Escape Goat",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Escape Goat.jpg",
+    "release_year": 2011,
+    "genre": "Plataformas, puzles",
+    "synopsis": "Juego de plataformas que combina saltos, exploración y desafíos para avanzar por sus niveles.",
+    "metacritic_score": 78
+  },
+  {
+    "name": "F1 2013",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/F1 2013.jpg",
+    "release_year": 2013,
+    "genre": "Carreras, simulación",
+    "synopsis": "Juego de conducción centrado en carreras, simulación, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 78
+  },
+  {
+    "name": "Far Cry 4",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Far Cry 4.jpg",
+    "release_year": 2014,
+    "genre": "Acción, shooter, mundo abierto",
+    "synopsis": "En la región ficticia de Kyrat, el protagonista queda atrapado en una guerra civil y debe explorar un mundo abierto montañoso.",
+    "metacritic_score": 85
+  },
+  {
+    "name": "Fifa Street 3",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Fifa Street 3.jpg",
+    "release_year": 2008,
+    "genre": "Deportes, fútbol arcade",
+    "synopsis": "Videojuego deportivo de deportes, fútbol arcade, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 63
+  },
+  {
+    "name": "Forza Horizon",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Forza Horizon.jpg",
+    "release_year": 2012,
+    "genre": "Carreras, mundo abierto",
+    "synopsis": "Un festival automovilístico sirve de marco para competir en carreras y explorar carreteras abiertas al volante de numerosos coches.",
+    "metacritic_score": 85
+  },
+  {
+    "name": "Forza Horizon 2",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Forza Horizon 2.jpg",
+    "release_year": 2014,
+    "genre": "Carreras, mundo abierto",
+    "synopsis": "Un festival de conducción recorre paisajes del sur de Europa con carreras, exploración libre y una amplia selección de vehículos.",
+    "metacritic_score": 86
+  },
+  {
+    "name": "Ge-Sen Love. Plus Pengo!",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Ge-Sen Love. Plus Pengo!.jpg",
+    "release_year": 2014,
+    "genre": "Arcade, puzles",
+    "synopsis": "Colección o experiencia arcade de partidas breves, centrada en la acción clásica y los desafíos de puntuación.",
+    "metacritic_score": 60
+  },
+  {
+    "name": "Iron Man 2",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Iron Man 2.jpg",
+    "release_year": 2010,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 41
+  },
+  {
+    "name": "Johnny Platform's Bitcuit Romp",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Johny Platform.jpg",
+    "release_year": 2010,
+    "genre": "Plataformas",
+    "synopsis": "Juego de plataformas que combina saltos, exploración y desafíos para avanzar por sus niveles.",
+    "metacritic_score": 72
+  },
+  {
+    "name": "Kinect Star Wars",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Kinect Star Wars.jpg",
+    "release_year": 2012,
+    "genre": "Acción, aventura, movimiento",
+    "synopsis": "Videojuego de acción, aventura, movimiento en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 55
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Left 4 Dead 2.jpg",
+    "release_year": 2009,
+    "genre": "Shooter, supervivencia cooperativa",
+    "synopsis": "Cuatro supervivientes atraviesan ciudades y pantanos infestados de zombis en una experiencia cooperativa de supervivencia.",
+    "metacritic_score": 89
+  },
+  {
+    "name": "Lego Star Wars: The Force Awakens",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Lego Star Wars_ The Force Awakens.jpg",
+    "release_year": 2016,
+    "genre": "Acción, aventura, plataformas",
+    "synopsis": "Videojuego de acción, aventura, plataformas en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 78
+  },
+  {
+    "name": "Lost Planet 2",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Lost Planet 2.jpg",
+    "release_year": 2010,
+    "genre": "Shooter, acción",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 68
+  },
+  {
+    "name": "Lost Planet 3",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Lost Planet 3.jpg",
+    "release_year": 2013,
+    "genre": "Shooter, acción, aventura",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 61
+  },
+  {
+    "name": "Lost Planet: Extreme Condition",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Lost Planet_ Extreme Condition.jpg",
+    "release_year": 2006,
+    "genre": "Shooter, acción",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 79
+  },
+  {
+    "name": "Madden NFL 25",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Madden NFL 25.jpg",
+    "release_year": 2013,
+    "genre": "Deportes, fútbol americano",
+    "synopsis": "Videojuego deportivo de deportes, fútbol americano, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 80
+  },
+  {
+    "name": "Mars Rover Landing",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Mars Rover Landing.jpg",
+    "release_year": 2012,
+    "genre": "Simulación, educativo",
+    "synopsis": "Videojuego de simulación, educativo en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 60
+  },
+  {
+    "name": "Marvel vs. Capcon 2",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Marvel vs. Capcon 2.jpg",
+    "release_year": 2002,
+    "genre": "Lucha",
+    "synopsis": "Juego de lucha en el que los combatientes se enfrentan en duelos con movimientos especiales y diferentes personajes.",
+    "metacritic_score": 90
+  },
+  {
+    "name": "Marvel vs. Capcon 3: Fate of Two Worlds",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Marvel vs. Capcon 3_ Fate of Two Worlds.jpg",
+    "release_year": 2011,
+    "genre": "Lucha",
+    "synopsis": "Juego de lucha en el que los combatientes se enfrentan en duelos con movimientos especiales y diferentes personajes.",
+    "metacritic_score": 84
+  },
+  {
+    "name": "Marvel vs. Capcon: Origins",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Marvel vs. Capcon_ Origins.jpg",
+    "release_year": 2012,
+    "genre": "Lucha, compilación",
+    "synopsis": "Juego de lucha en el que los combatientes se enfrentan en duelos con movimientos especiales y diferentes personajes.",
+    "metacritic_score": 78
+  },
+  {
+    "name": "Metal Gear Solid V: Ground Zeroes",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Metal Gear Solid V_ Ground Zeroes.jpg",
+    "release_year": 2014,
+    "genre": "Acción, sigilo",
+    "synopsis": "Snake se infiltra en una instalación militar para rescatar prisioneros en una misión centrada en el sigilo.",
+    "metacritic_score": 80
+  },
+  {
+    "name": "Mortal Kombat",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Mortal Kombat.jpg",
+    "release_year": 2011,
+    "genre": "Lucha",
+    "synopsis": "Juego de lucha en el que los combatientes se enfrentan en duelos con movimientos especiales y diferentes personajes.",
+    "metacritic_score": 84
+  },
+  {
+    "name": "Nascar 14",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Nascar 14.jpg",
+    "release_year": 2014,
+    "genre": "Carreras, simulación",
+    "synopsis": "Juego de conducción centrado en carreras, simulación, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 68
+  },
+  {
+    "name": "Naughty Bear",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Naughty Bear.jpg",
+    "release_year": 2010,
+    "genre": "Acción, sigilo, aventura",
+    "synopsis": "Juego de infiltración en el que conviene observar los patrones enemigos, evitar ser detectado y cumplir objetivos tácticos.",
+    "metacritic_score": 43
+  },
+  {
+    "name": "NBA 2K14",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/NBA 2K14.jpg",
+    "release_year": 2013,
+    "genre": "Deportes, baloncesto",
+    "synopsis": "Videojuego deportivo de deportes, baloncesto, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 86
+  },
+  {
+    "name": "NHL 13",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/NHL 13.jpg",
+    "release_year": 2012,
+    "genre": "Deportes, hockey sobre hielo",
+    "synopsis": "Videojuego deportivo de deportes, hockey sobre hielo, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 88
+  },
+  {
+    "name": "Oben (Up)",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Up.jpg",
+    "release_year": 2009,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 66
+  },
+  {
+    "name": "Payday 2",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Payday 2.jpg",
+    "release_year": 2013,
+    "genre": "Shooter, acción cooperativa",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 79
+  },
+  {
+    "name": "Resident Evil 4",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Resident Evil 4.jpg",
+    "release_year": 2005,
+    "genre": "Terror, acción, supervivencia",
+    "synopsis": "Aventura de terror y supervivencia en la que el jugador explora entornos peligrosos, afronta amenazas y busca cómo seguir adelante.",
+    "metacritic_score": 84
+  },
+  {
+    "name": "Resident Evil Code: Veronica",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Resident Evil Code_ Veronica.jpg",
+    "release_year": 2001,
+    "genre": "Terror, supervivencia",
+    "synopsis": "Aventura de terror y supervivencia en la que el jugador explora entornos peligrosos, afronta amenazas y busca cómo seguir adelante.",
+    "metacritic_score": 84
+  },
+  {
+    "name": "Resident Evil: Operation Raccoon City",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Resident Evil_ Operation Raccoon City.jpg",
+    "release_year": 2012,
+    "genre": "Shooter, terror, acción",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 52
+  },
+  {
+    "name": "Ride",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Ride.jpg",
+    "release_year": 2015,
+    "genre": "Carreras, motociclismo",
+    "synopsis": "Juego de conducción centrado en carreras, motociclismo, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 66
+  },
+  {
+    "name": "Rise of Nightmares",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Rise of Nightmares.jpg",
+    "release_year": 2011,
+    "genre": "Terror, acción",
+    "synopsis": "Aventura de terror y supervivencia en la que el jugador explora entornos peligrosos, afronta amenazas y busca cómo seguir adelante.",
+    "metacritic_score": 51
+  },
+  {
+    "name": "Rugby 15",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Rugby 15.jpg",
+    "release_year": 2014,
+    "genre": "Deportes, rugby",
+    "synopsis": "Videojuego deportivo de deportes, rugby, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 20
+  },
+  {
+    "name": "Sega Mega Drive Ultimate Collection",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Sega Mega Drive Ultimate Collection.jpg",
+    "release_year": 2009,
+    "genre": "Compilación, juegos clásicos",
+    "synopsis": "Colección o experiencia arcade de partidas breves, centrada en la acción clásica y los desafíos de puntuación.",
+    "metacritic_score": 78
+  },
+  {
+    "name": "Sega Rally Revo",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Sega Rally Revo.jpg",
+    "release_year": 2007,
+    "genre": "Carreras, arcade",
+    "synopsis": "Juego de conducción centrado en carreras, arcade, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 75
+  },
+  {
+    "name": "Silent Hill Downpour",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Silent Hill Downpour.jpg",
+    "release_year": 2012,
+    "genre": "Terror, supervivencia",
+    "synopsis": "Aventura de terror y supervivencia en la que el jugador explora entornos peligrosos, afronta amenazas y busca cómo seguir adelante.",
+    "metacritic_score": 68
+  },
+  {
+    "name": "Sonic & All-Stars Racing Transformed",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Sonic & All-Stars Racing Transformed.jpg",
+    "release_year": 2012,
+    "genre": "Carreras, arcade",
+    "synopsis": "Juego de conducción centrado en carreras, arcade, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 82
+  },
+  {
+    "name": "Star Trek: Legacy",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Star Trek_ Legacy.jpg",
+    "release_year": 2006,
+    "genre": "Estrategia, combate espacial",
+    "synopsis": "Juego de estrategia en el que hay que planificar movimientos, gestionar recursos y superar escenarios tácticos.",
+    "metacritic_score": 66
+  },
+  {
+    "name": "Summer Athletics 2009",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Summer Athletics 2009.jpg",
+    "release_year": 2008,
+    "genre": "Deportes",
+    "synopsis": "Videojuego deportivo de deportes, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 45
+  },
+  {
+    "name": "Superman Returns",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Superman Returns.jpg",
+    "release_year": 2006,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 51
+  },
+  {
+    "name": "SVC: Alex Kidd & Co",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Alex Kidd.png",
+    "release_year": 2009,
+    "genre": "Compilación, arcade, acción",
+    "synopsis": "Recopilación de juegos clásicos de Sega centrada en partidas arcade y acción retro.",
+    "metacritic_score": 70
+  },
+  {
+    "name": "SVC: Golden Axe",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Golden Axe.jpg",
+    "release_year": 2009,
+    "genre": "Compilación, arcade, acción",
+    "synopsis": "Recopilación de juegos clásicos de Sega centrada en partidas arcade y acción retro.",
+    "metacritic_score": 68
+  },
+  {
+    "name": "SVC: Monster World",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Monster World.jpg",
+    "release_year": 2009,
+    "genre": "Compilación, arcade, acción",
+    "synopsis": "Recopilación de juegos clásicos de Sega centrada en partidas arcade y acción retro.",
+    "metacritic_score": 75
+  },
+  {
+    "name": "SVC: Streets of Rage",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Streets Of Rage.jpg",
+    "release_year": 2009,
+    "genre": "Compilación, arcade, acción",
+    "synopsis": "Recopilación de juegos clásicos de Sega centrada en partidas arcade y acción retro.",
+    "metacritic_score": 79
+  },
+  {
+    "name": "SVC: Toe Jam & Earl",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Toe Jam.jpg",
+    "release_year": 2009,
+    "genre": "Compilación, arcade, acción",
+    "synopsis": "Recopilación de juegos clásicos de Sega centrada en partidas arcade y acción retro.",
+    "metacritic_score": 72
+  },
+  {
+    "name": "The Darkness",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/The Darkness.jpg",
+    "release_year": 2007,
+    "genre": "Shooter, terror, acción",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 80
+  },
+  {
+    "name": "The Elder Scrolls V: Skyrim",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/The Elder Scrolls V_ Skyrim.jpg",
+    "release_year": 2011,
+    "genre": "RPG, mundo abierto, fantasía",
+    "synopsis": "Un aventurero marcado por un destino legendario explora una provincia fantástica, combate dragones y decide cómo evoluciona su historia.",
+    "metacritic_score": 96
+  },
+  {
+    "name": "The Lord of the Rings: Conquest",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/The Lord of the Rings_ Conquest.jpg",
+    "release_year": 2009,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 57
+  },
+  {
+    "name": "Ultimate vs. Capcom 3",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Ultimate Maven vs Capcom 3.jpg",
+    "release_year": 2011,
+    "genre": "Lucha",
+    "synopsis": "Juego de lucha en el que los combatientes se enfrentan en duelos con movimientos especiales y diferentes personajes.",
+    "metacritic_score": 80
+  },
+  {
+    "name": "Virtual Fighter 2",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/Virtua Fighter 2.png",
+    "release_year": 2006,
+    "genre": "Lucha",
+    "synopsis": "Juego de lucha en el que los combatientes se enfrentan en duelos con movimientos especiales y diferentes personajes.",
+    "metacritic_score": 77
+  },
+  {
+    "name": "WRC 5: FIA World Rally Championship",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/WRC 5_ FIA World Rally Championship.jpg",
+    "release_year": 2015,
+    "genre": "Carreras, rally",
+    "synopsis": "Juego de conducción centrado en carreras, rally, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 67
+  },
+  {
+    "name": "X-Men: The Official Game",
+    "disco": "DISCO 320GB",
+    "cover": "caratulas_xbox360/X-Men_ The Official Game.jpg",
+    "release_year": 2006,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 52
+  },
+  {
+    "name": "Alan Wake",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Alan Wake.jpg",
+    "release_year": 2010,
+    "genre": "Acción, terror psicológico",
+    "synopsis": "Un escritor busca a su esposa en un pueblo oscuro donde sucesos sobrenaturales parecen reproducir los horrores de sus relatos.",
+    "metacritic_score": 83
+  },
+  {
+    "name": "Aliens: Colonial Marines",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Aliens_ Colonial Marines.jpg",
+    "release_year": 2013,
+    "genre": "Shooter, terror",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 45
+  },
+  {
+    "name": "Birds of Steel",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Birds of Steel.jpg",
+    "release_year": 2012,
+    "genre": "Combate aéreo, simulación",
+    "synopsis": "Videojuego de combate aéreo, simulación en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 76
+  },
+  {
+    "name": "Blur",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/blur.jpg",
+    "release_year": 2010,
+    "genre": "Carreras arcade, combate vehicular",
+    "synopsis": "Juego de carreras arcade que combina conducción a alta velocidad, combate vehicular y uso de potenciadores para superar a tus rivales.",
+    "metacritic_score": 82
+  },
+  {
+    "name": "Borderlands",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Borderlands.jpg",
+    "release_year": 2009,
+    "genre": "Shooter, RPG, mundo abierto",
+    "synopsis": "Un buscador de tesoros explora el planeta Pandora, combate bandidos y criaturas y reúne armas en una aventura de acción y rol.",
+    "metacritic_score": 83
+  },
+  {
+    "name": "Borderlands 2",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Borderlands 2.jpg",
+    "release_year": 2012,
+    "genre": "Shooter, RPG, mundo abierto",
+    "synopsis": "Un grupo de buscadores de la Cámara se enfrenta al tiránico Handsome Jack en Pandora, combinando disparos, botín y humor.",
+    "metacritic_score": 89
+  },
+  {
+    "name": "Bubble Bobble Neo!",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Bubble Bobble Neo!.jpg",
+    "release_year": 2009,
+    "genre": "Plataformas, arcade",
+    "synopsis": "Juego de plataformas que combina saltos, exploración y desafíos para avanzar por sus niveles.",
+    "metacritic_score": 54
+  },
+  {
+    "name": "Captain America: Super Soldier",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Captain America_ Super Soldier.jpg",
+    "release_year": 2011,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 57
+  },
+  {
+    "name": "Castlevania - Lords of Shadows",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Castlevania - Lord of Shadows.jpg",
+    "release_year": 2010,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 83
+  },
+  {
+    "name": "Castlevania HD",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Castlevania HD.jpg",
+    "release_year": 2009,
+    "genre": "Acción, arcade cooperativo",
+    "synopsis": "Colección o experiencia arcade de partidas breves, centrada en la acción clásica y los desafíos de puntuación.",
+    "metacritic_score": 67
+  },
+  {
+    "name": "Conan",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Conan.jpg",
+    "release_year": 2007,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 69
+  },
+  {
+    "name": "Crash Bandicoot: Mind over Mutant",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Crash bandicoot Mind Over Mutant.jpg",
+    "release_year": 2008,
+    "genre": "Plataformas, acción",
+    "synopsis": "Juego de plataformas que combina saltos, exploración y desafíos para avanzar por sus niveles.",
+    "metacritic_score": 73
+  },
+  {
+    "name": "DAYTONA USA",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/DAYTONA USA.jpg",
+    "release_year": 2011,
+    "genre": "Carreras, arcade",
+    "synopsis": "Juego de conducción centrado en carreras, arcade, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 77
+  },
+  {
+    "name": "Deadly Premonition",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Deadly Premonition.jpg",
+    "release_year": 2010,
+    "genre": "Terror, aventura, mundo abierto",
+    "synopsis": "Aventura de terror y supervivencia en la que el jugador explora entornos peligrosos, afronta amenazas y busca cómo seguir adelante.",
+    "metacritic_score": 68
+  },
+  {
+    "name": "Deadpool",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Deadpool.jpg",
+    "release_year": 2013,
+    "genre": "Acción, hack and slash",
+    "synopsis": "El mercenario bocazas emprende una misión violenta y disparatada que mezcla combate cuerpo a cuerpo, armas y humor irreverente.",
+    "metacritic_score": 60
+  },
+  {
+    "name": "Driver - San Francisco",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Driver - San Francisco.jpg",
+    "release_year": 2011,
+    "genre": "Conducción, acción",
+    "synopsis": "Un detective persigue a un criminal por San Francisco y puede cambiar de vehículo de forma instantánea durante la conducción.",
+    "metacritic_score": 80
+  },
+  {
+    "name": "DuckTales Remastered",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/DuckTales Remastered.jpg",
+    "release_year": 2013,
+    "genre": "Plataformas",
+    "synopsis": "Juego de plataformas que combina saltos, exploración y desafíos para avanzar por sus niveles.",
+    "metacritic_score": 68
+  },
+  {
+    "name": "F1 2010",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/F1 2010.jpg",
+    "release_year": 2010,
+    "genre": "Carreras, simulación",
+    "synopsis": "Juego de conducción centrado en carreras, simulación, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 84
+  },
+  {
+    "name": "F1 2012",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/F1 2012.jpg",
+    "release_year": 2012,
+    "genre": "Carreras, simulación",
+    "synopsis": "Juego de conducción centrado en carreras, simulación, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 80
+  },
+  {
+    "name": "FIFA 19 Legacy Edition",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/FIFA 19 Legacy Edition.jpg",
+    "release_year": 2018,
+    "genre": "Deportes, fútbol",
+    "synopsis": "Videojuego deportivo de deportes, fútbol, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 60
+  },
+  {
+    "name": "FIFA Street 3",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/FIFA Street 3.jpg",
+    "release_year": 2008,
+    "genre": "Deportes, fútbol arcade",
+    "synopsis": "Videojuego deportivo de deportes, fútbol arcade, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 63
+  },
+  {
+    "name": "Fight Night Round 4",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Fight Night Round 4.jpg",
+    "release_year": 2009,
+    "genre": "Deportes, boxeo",
+    "synopsis": "Videojuego deportivo de deportes, boxeo, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 88
+  },
+  {
+    "name": "Forza Motosport 3",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Forza Motosport 3.jpg",
+    "release_year": 2009,
+    "genre": "Carreras, simulación",
+    "synopsis": "Juego de conducción centrado en carreras, simulación, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 92
+  },
+  {
+    "name": "Ghost Recon - Future Soldier",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Ghost Recon - Future Soldier.jpg",
+    "release_year": 2012,
+    "genre": "Shooter táctico",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 79
+  },
+  {
+    "name": "Goat Simulator",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Goat Simulator.jpg",
+    "release_year": 2015,
+    "genre": "Simulación, comedia",
+    "synopsis": "Videojuego de simulación, comedia en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 62
+  },
+  {
+    "name": "Grand Theft Auto IV",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Grand Theft Auto IV.jpg",
+    "release_year": 2008,
+    "genre": "Acción, aventura, mundo abierto",
+    "synopsis": "Niko Bellic llega a Liberty City buscando una nueva vida, pero termina envuelto en el crimen y las deudas de la gran ciudad.",
+    "metacritic_score": 98
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Grand Theft Auto V.jpg",
+    "release_year": 2013,
+    "genre": "Acción, aventura, mundo abierto",
+    "synopsis": "Tres delincuentes con vidas entrelazadas ejecutan golpes y afrontan conflictos en la ciudad ficticia de Los Santos.",
+    "metacritic_score": 97
+  },
+  {
+    "name": "Grand Theft Auto: Episodes from Liberty City",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Grand Theft Auto_ Episodes from Liberty City.jpg",
+    "release_year": 2009,
+    "genre": "Acción, aventura, mundo abierto",
+    "synopsis": "Videojuego de acción, aventura, mundo abierto en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 90
+  },
+  {
+    "name": "Grand Theft Auto: San Andreas",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Grand Theft Auto_ San Andreas.jpg",
+    "release_year": 2005,
+    "genre": "Acción, aventura, mundo abierto",
+    "synopsis": "Videojuego de acción, aventura, mundo abierto en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 80
+  },
+  {
+    "name": "Green Lantern",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Green Lantern.jpg",
+    "release_year": 2011,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 63
+  },
+  {
+    "name": "GRID",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/GRID.jpg",
+    "release_year": 2008,
+    "genre": "Carreras",
+    "synopsis": "Juego de conducción centrado en carreras, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 87
+  },
+  {
+    "name": "GRID 2",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/GRID 2.jpg",
+    "release_year": 2013,
+    "genre": "Carreras",
+    "synopsis": "Juego de conducción centrado en carreras, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 82
+  },
+  {
+    "name": "Halo 3",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Halo 3.jpg",
+    "release_year": 2007,
+    "genre": "Shooter en primera persona, ciencia ficción",
+    "synopsis": "El Jefe Maestro vuelve para decidir el destino de la humanidad en una guerra de ciencia ficción contra el Covenant.",
+    "metacritic_score": 94
+  },
+  {
+    "name": "Halo Wars",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Halo Wars.jpg",
+    "release_year": 2009,
+    "genre": "Estrategia en tiempo real",
+    "synopsis": "Juego de estrategia en el que hay que planificar movimientos, gestionar recursos y superar escenarios tácticos.",
+    "metacritic_score": 82
+  },
+  {
+    "name": "Halo: Combat Evolved Anniversary",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Halo_ Combat Evolved Anniversary.jpg",
+    "release_year": 2011,
+    "genre": "Shooter en primera persona, ciencia ficción",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 82
+  },
+  {
+    "name": "Halo: Reach",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Halo_ Reach.jpg",
+    "release_year": 2010,
+    "genre": "Shooter en primera persona, ciencia ficción",
+    "synopsis": "Los soldados de Noble Team defienden el planeta Reach durante una de las batallas decisivas del universo Halo.",
+    "metacritic_score": 91
+  },
+  {
+    "name": "Halo: Spartan Assault",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Halo_ Spartan Assault.jpg",
+    "release_year": 2013,
+    "genre": "Shooter, acción",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 70
+  },
+  {
+    "name": "Hydro Thunder Hurricane",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Hydro Thunder Hurricane.jpg",
+    "release_year": 2010,
+    "genre": "Carreras acuáticas, arcade",
+    "synopsis": "Juego de conducción centrado en carreras acuáticas, arcade, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 79
+  },
+  {
+    "name": "L.A. Noire",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/L.A. Noire.jpg",
+    "release_year": 2011,
+    "genre": "Aventura, investigación, acción",
+    "synopsis": "En el Los Ángeles de posguerra, un detective resuelve crímenes examinando escenas, reuniendo pruebas e interrogando sospechosos.",
+    "metacritic_score": 89
+  },
+  {
+    "name": "LEGO Dimensions",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/LEGO Dimensions.jpg",
+    "release_year": 2015,
+    "genre": "Aventura, plataformas",
+    "synopsis": "Videojuego de aventura, plataformas en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 80
+  },
+  {
+    "name": "Lollipop Chainsaw",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Lollipop Chainsaw.jpg",
+    "release_year": 2012,
+    "genre": "Acción, hack and slash",
+    "synopsis": "Videojuego de acción, hack and slash en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 67
+  },
+  {
+    "name": "Marble Blast Ultra",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Marble Blast Ultra.jpg",
+    "release_year": 2006,
+    "genre": "Plataformas, puzles",
+    "synopsis": "Juego de plataformas que combina saltos, exploración y desafíos para avanzar por sus niveles.",
+    "metacritic_score": 82
+  },
+  {
+    "name": "Medal of Honor: Airborne",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Medal of Honor_ Airborne.jpg",
+    "release_year": 2007,
+    "genre": "Shooter bélico",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 73
+  },
+  {
+    "name": "Metal Gear Solid HD Collection",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Metal Gear Solid HD Collection.jpg",
+    "release_year": 2011,
+    "genre": "Acción, sigilo, compilación",
+    "synopsis": "Juego de infiltración en el que conviene observar los patrones enemigos, evitar ser detectado y cumplir objetivos tácticos.",
+    "metacritic_score": 78
+  },
+  {
+    "name": "Metal Gear Solid V: The Phanton Pain",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Metal Gear Solid V_ The Phanton Pain.jpg",
+    "release_year": 2015,
+    "genre": "Acción, sigilo, mundo abierto",
+    "synopsis": "Snake dirige operaciones encubiertas en amplios escenarios, recluta personal y construye una base mientras busca venganza.",
+    "metacritic_score": 95
+  },
+  {
+    "name": "Middle-earth. Shadow of Mordor",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Middle-earth. Shadow of Mordor.jpg",
+    "release_year": 2014,
+    "genre": "Acción, aventura, mundo abierto",
+    "synopsis": "Un montaraz unido al espíritu de un elfo busca vengarse de Sauron y desestabilizar sus ejércitos en Mordor.",
+    "metacritic_score": 84
+  },
+  {
+    "name": "Midnight Club: Los Angeles",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Midnight Club_ Los Angeles.jpg",
+    "release_year": 2008,
+    "genre": "Carreras, mundo abierto",
+    "synopsis": "Juego de conducción centrado en carreras, mundo abierto, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 81
+  },
+  {
+    "name": "MotoGP 15",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/MotoGP 15.jpg",
+    "release_year": 2015,
+    "genre": "Carreras, motociclismo",
+    "synopsis": "Juego de conducción centrado en carreras, motociclismo, con pruebas y desafíos para dominar vehículos y circuitos.",
+    "metacritic_score": 69
+  },
+  {
+    "name": "Naruto Shippuden: Ultimate Ninja Storm Generation",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Naruto Shippuden_ Ultimate Ninja Storm Generation.jpg",
+    "release_year": 2012,
+    "genre": "Lucha, anime",
+    "synopsis": "Juego de lucha en el que los combatientes se enfrentan en duelos con movimientos especiales y diferentes personajes.",
+    "metacritic_score": 74
+  },
+  {
+    "name": "Naruto Shippuden: Ultimate Ninja Storm Revolution",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Naruto Shippuden_ Ultimate Ninja Storm Revolution.jpg",
+    "release_year": 2014,
+    "genre": "Lucha, anime",
+    "synopsis": "Juego de lucha en el que los combatientes se enfrentan en duelos con movimientos especiales y diferentes personajes.",
+    "metacritic_score": 73
+  },
+  {
+    "name": "NBA 2K18",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/NBA 2K18.jpg",
+    "release_year": 2017,
+    "genre": "Deportes, baloncesto",
+    "synopsis": "Videojuego deportivo de deportes, baloncesto, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 78
+  },
+  {
+    "name": "NBA Street Homecourt",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/NBA Street Homecourt.jpg",
+    "release_year": 2007,
+    "genre": "Deportes, baloncesto arcade",
+    "synopsis": "Videojuego deportivo de deportes, baloncesto arcade, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 75
+  },
+  {
+    "name": "Over G - Fighters",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Over G - Fighters.jpg",
+    "release_year": 2006,
+    "genre": "Combate aéreo, simulación",
+    "synopsis": "Videojuego de combate aéreo, simulación en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 49
+  },
+  {
+    "name": "Portal 2",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Portal 2.jpg",
+    "release_year": 2011,
+    "genre": "Puzles, aventura, plataformas",
+    "synopsis": "Una inteligencia artificial somete al jugador a ingeniosos desafíos de física y lógica usando un dispositivo que crea portales.",
+    "metacritic_score": 95
+  },
+  {
+    "name": "Portal: Still Alive",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Portal_ Still Alive.jpg",
+    "release_year": 2008,
+    "genre": "Puzles, plataformas",
+    "synopsis": "Videojuego de puzles, plataformas en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 83
+  },
+  {
+    "name": "Pro Evolution Soccer 2017",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Pro Evolution Soccer 2017.jpg",
+    "release_year": 2016,
+    "genre": "Deportes, fútbol",
+    "synopsis": "Videojuego deportivo de deportes, fútbol, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 75
+  },
+  {
+    "name": "Puss in Boots",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Puss in Boots.jpg",
+    "release_year": 2011,
+    "genre": "Acción, aventura, plataformas",
+    "synopsis": "Videojuego de acción, aventura, plataformas en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 70
+  },
+  {
+    "name": "R.E. CODE: Veronica X",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Resident Evil Code X Veronica.jpg",
+    "release_year": 2003,
+    "genre": "Terror, supervivencia",
+    "synopsis": "Aventura de terror y supervivencia en la que el jugador explora entornos peligrosos, afronta amenazas y busca cómo seguir adelante.",
+    "metacritic_score": 84
+  },
+  {
+    "name": "Red Dead Redemption",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Red Dead Redemption.jpg",
+    "release_year": 2010,
+    "genre": "Acción, aventura, mundo abierto, western",
+    "synopsis": "Un antiguo forajido recorre el oeste americano para perseguir a miembros de su antigua banda y proteger a su familia.",
+    "metacritic_score": 95
+  },
+  {
+    "name": "Resident Evil 5",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Resident Evil 5.jpg",
+    "release_year": 2009,
+    "genre": "Terror, acción, supervivencia",
+    "synopsis": "Chris Redfield y Sheva Alomar investigan una amenaza biológica en África en una aventura de terror y acción cooperativa.",
+    "metacritic_score": 83
+  },
+  {
+    "name": "Resident Evil 6",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Resident Evil 6.jpg",
+    "release_year": 2012,
+    "genre": "Terror, acción, supervivencia",
+    "synopsis": "Varios protagonistas afrontan brotes biológicos en distintas partes del mundo, con campañas que entrelazan sus historias.",
+    "metacritic_score": 67
+  },
+  {
+    "name": "Resident Evil: Revelations 2",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Resident Evil_ Revelations 2.jpg",
+    "release_year": 2015,
+    "genre": "Terror, supervivencia",
+    "synopsis": "Aventura de terror y supervivencia en la que el jugador explora entornos peligrosos, afronta amenazas y busca cómo seguir adelante.",
+    "metacritic_score": 75
+  },
+  {
+    "name": "Rockstar Games Presents Table Tennis",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Rockstar Games Presents Table Tennis.jpg",
+    "release_year": 2006,
+    "genre": "Deportes, tenis de mesa",
+    "synopsis": "Videojuego deportivo de deportes, tenis de mesa, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 81
+  },
+  {
+    "name": "Saw",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Saw.jpg",
+    "release_year": 2009,
+    "genre": "Terror, puzles",
+    "synopsis": "Aventura de terror y supervivencia en la que el jugador explora entornos peligrosos, afronta amenazas y busca cómo seguir adelante.",
+    "metacritic_score": 59
+  },
+  {
+    "name": "Shinobi",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Shinobi.jpg",
+    "release_year": 2002,
+    "genre": "Acción, plataformas",
+    "synopsis": "Videojuego de acción, plataformas en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 72
+  },
+  {
+    "name": "Spider-Man 3",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Spider-Man 3.jpg",
+    "release_year": 2007,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 63
+  },
+  {
+    "name": "Star Wars - The Clone Wars - Republic Heroes",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Star Wars - The Clone Wars - Republic Heroes.jpg",
+    "release_year": 2009,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 46
+  },
+  {
+    "name": "Star Wars - The Force Unleashed II",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Star Wars - The Force Unleashed II.jpg",
+    "release_year": 2010,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 61
+  },
+  {
+    "name": "Star Wars - The Force Unleashed: Ultimate Sith Edition",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Star Wars - The Force Unleashed_ Ultimate Sith Edition.jpg",
+    "release_year": 2009,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 73
+  },
+  {
+    "name": "SVC: Golden Axe",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Golden Axe.jpg",
+    "release_year": 2009,
+    "genre": "Compilación, arcade, acción",
+    "synopsis": "Recopilación de juegos clásicos de Sega centrada en partidas arcade y acción retro.",
+    "metacritic_score": 68
+  },
+  {
+    "name": "The Amazing Spider-Man",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/The Amazing Spider-Man.jpg",
+    "release_year": 2012,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 71
+  },
+  {
+    "name": "The Amazing Spider-Man 2",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/The Amazing Spider-Man 2.jpg",
+    "release_year": 2014,
+    "genre": "Acción, aventura",
+    "synopsis": "Videojuego de acción, aventura en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 57
+  },
+  {
+    "name": "The Evil Within",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/The Evil Within.jpg",
+    "release_year": 2014,
+    "genre": "Terror, supervivencia",
+    "synopsis": "El detective Sebastian Castellanos queda atrapado en una pesadilla cambiante y debe sobrevivir a criaturas aterradoras.",
+    "metacritic_score": 79
+  },
+  {
+    "name": "The Godfather- The Game",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/The Godfather- The Game.jpg",
+    "release_year": 2006,
+    "genre": "Acción, aventura, mundo abierto",
+    "synopsis": "Videojuego de acción, aventura, mundo abierto en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 77
+  },
+  {
+    "name": "The Orange Box - Half-Life 2",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/The Orange Box.jpg",
+    "release_year": 2007,
+    "genre": "Shooter, puzles, compilación",
+    "synopsis": "Juego de acción centrado en el combate con armas, con objetivos que completar y enemigos a los que hacer frente.",
+    "metacritic_score": 96
+  },
+  {
+    "name": "The Saboteur",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/The Saboteur.jpg",
+    "release_year": 2009,
+    "genre": "Acción, aventura, sigilo",
+    "synopsis": "Juego de infiltración en el que conviene observar los patrones enemigos, evitar ser detectado y cumplir objetivos tácticos.",
+    "metacritic_score": 72
+  },
+  {
+    "name": "The Simpsons Game",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/The Simpsons Game.jpg",
+    "release_year": 2007,
+    "genre": "Acción, aventura, plataformas",
+    "synopsis": "Videojuego de acción, aventura, plataformas en el que el jugador progresa a través de desafíos y objetivos propios de su aventura.",
+    "metacritic_score": 71
+  },
+  {
+    "name": "Tom Clancy's Splinter Cell: Blacklist",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Tom Clancy's Splinter Cell_ Blacklist.jpg",
+    "release_year": 2013,
+    "genre": "Acción, sigilo",
+    "synopsis": "Sam Fisher lidera una unidad clandestina para detener una serie de ataques, usando infiltración, tecnología y combate táctico.",
+    "metacritic_score": 82
+  },
+  {
+    "name": "Trials Evolution",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/Trials Evolution.jpg",
+    "release_year": 2012,
+    "genre": "Carreras, plataformas",
+    "synopsis": "El jugador supera circuitos de obstáculos en moto, dominando el equilibrio, la aceleración y los saltos.",
+    "metacritic_score": 90
+  },
+  {
+    "name": "UFC Undisputed 3",
+    "disco": "DISCO 500GB",
+    "cover": "caratulas_xbox360/UFC Undisputed 3.jpg",
+    "release_year": 2012,
+    "genre": "Deportes, lucha",
+    "synopsis": "Videojuego deportivo de deportes, lucha, con partidos o competiciones y opciones para poner a prueba tus habilidades.",
+    "metacritic_score": 85
+  }
+]

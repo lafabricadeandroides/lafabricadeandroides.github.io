@@ -34,6 +34,13 @@
       "imagenCaratula": "/images/app-covers/tkinter-framework.png",
       "enlace": "https://github.com/fpaniaguapython/tkinter_simple_framework",
       "info": "Python"
+    },
+    {
+      "id": 6,
+      "titulo": "XBox 360 GOW Games Manager",
+      "imagenCaratula": "/images/app-covers/gow-games-manager.png",
+      "enlace": "https://lafabricadeandroides.github.io/xbox-gow-games-manager/",
+      "info": "Python"
     }
   ]
 }

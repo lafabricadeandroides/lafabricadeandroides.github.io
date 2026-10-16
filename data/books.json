@@ -2,6 +2,13 @@
   "libros": [
     {
       "id": 1,
+      "titulo": "Lenguajes de marcas 1ª Edición",
+      "imagenCaratula": "/images/book-covers/lenguajes-de-marcas-1ed.png",
+      "enlace": "#",
+      "info": "Ediciones Paraninfo"
+    },
+    {
+      "id": 1,
       "titulo": "Lenguajes de marcas 2ª Edición",
       "imagenCaratula": "/images/book-covers/lenguajes-de-marcas-2ed.png",
       "enlace": "https://www.paraninfo.es/catalogo/9788428367882/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion-2-%C2%AA-edicion-2025",
